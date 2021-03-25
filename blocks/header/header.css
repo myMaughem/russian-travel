@@ -1,0 +1,9 @@
+.header {
+  width: 288px;
+  height: 42px;
+  padding: 16px 16px 0 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  position: relative;
+}
