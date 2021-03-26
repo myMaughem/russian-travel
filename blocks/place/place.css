@@ -1,0 +1,7 @@
+.place {
+  list-style: none;
+  padding: 0;
+  position: relative;
+  display: grid;
+  grid-auto-flow: row;
+}
