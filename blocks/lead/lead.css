@@ -1,0 +1,16 @@
+.lead {
+  padding-top: 48px;
+  min-width: 320px;
+  height: 406px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  white-space: pre-line;
+  color: #FFFFFF
+}
+@media (min-width:768px) {
+  .lead {
+     min-width: 768px;
+     height: 862px;
+  }
+}
