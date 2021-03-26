@@ -1,4 +1,9 @@
 .intro {
-  width: 288px;
+  min-width: 288px;
   height: 754px;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding-top: 64px;
+  position: relative;
 }
