@@ -1,0 +1,9 @@
+.footer {
+  margin: 64px auto 24px 16px;
+  height: 310px;
+  width: 186px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

@@ -1,0 +1,9 @@
+.cover__subtitle {
+  height: 48px;
+  width: 288px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+  margin: 16px auto 0;
+}

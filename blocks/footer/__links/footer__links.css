@@ -1,0 +1,8 @@
+.footer__links {
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-auto-flow: row;
+  grid-row-gap: 32px;
+  margin: 0;
+}
