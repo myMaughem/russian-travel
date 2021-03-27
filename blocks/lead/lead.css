@@ -1,6 +1,7 @@
 .lead {
+  font-family: 'Inter','Arial', sans-serif;
   padding-top: 48px;
-  min-width: 320px;
+  width: 320px;
   height: 406px;
   position: relative;
   display: flex;

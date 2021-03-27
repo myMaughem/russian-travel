@@ -1,9 +1,11 @@
 .intro {
-  min-width: 288px;
+  font-family: 'Inter','Arial', sans-serif;
+  width: 288px;
   height: 754px;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
+  margin: 0 16px;
   padding-top: 64px;
   position: relative;
 }

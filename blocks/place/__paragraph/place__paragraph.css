@@ -1,5 +1,7 @@
 .place__paragraph {
-  min-width: 288px;
-  margin: 0 auto 25px;
-  padding: 0 16px;
+  width: 288px;
+  margin: 0 16px 25px;
+}
+.place__paragraph:last-child {
+  margin-bottom: 0;
 }

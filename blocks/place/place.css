@@ -1,7 +1,11 @@
 .place {
+  margin-top: 50px;
   list-style: none;
   padding: 0;
   position: relative;
   display: grid;
   grid-auto-flow: row;
+}
+.place:first-child {
+  margin-top: 0;
 }

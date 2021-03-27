@@ -3,7 +3,6 @@
   height: 20px;
   font-size: 18px;
   line-height: 20px;
-  font-weight: normal;
 }
 @media (min-width:768px) {
   .header__lang-link {
