@@ -1,5 +1,4 @@
 .cover {
-  font-family: 'Inter','Arial', sans-serif;
   position: relative;
   height: 200px;
   width: 320px;
@@ -25,4 +24,10 @@
 }
 .cover:hover::after {
   opacity: 0.8;
+}
+@media (min-width:768px) {
+  .cover {
+    width: 768px;
+    height: 480px;
+  }
 }

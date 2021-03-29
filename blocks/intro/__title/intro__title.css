@@ -6,3 +6,12 @@
   font-weight: 900;
   margin: 0 auto;
 }
+@media (min-width:768px) {
+  .intro__title {
+    width: 720px;
+    height: 58px;
+    font-size: 54px;
+    line-height: 58px;
+    margin: 0;
+  }
+}

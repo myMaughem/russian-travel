@@ -7,3 +7,11 @@
   text-align: center;
   margin: 16px auto 0;
 }
+@media (min-width:768px) {
+  .cover__subtitle {
+    height: 66px;
+    width: 360px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

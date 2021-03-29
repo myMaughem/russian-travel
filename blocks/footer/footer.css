@@ -1,10 +1,20 @@
 .footer {
-  font-family: 'Inter','Arial', sans-serif;
   padding: 64px 118px 24px 16px;
   height: 310px;
   width: 186px;
   color: #ffffff;
+  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+}
+@media (min-width:768px) {
+  .footer {
+    width: 720px;
+    height: 18px;
+    flex-direction: row;
+    padding: 88px 0 0;
+    margin: auto;
+    justify-content: space-between;
+  }
 }

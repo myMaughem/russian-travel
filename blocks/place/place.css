@@ -1,11 +1,19 @@
 .place {
-  margin-top: 50px;
   list-style: none;
   padding: 0;
   position: relative;
-  display: grid;
-  grid-auto-flow: row;
 }
-.place:first-child {
-  margin-top: 0;
+@media (min-width:768px) {
+  .place {
+    display: grid;
+    column-gap: 28px;
+    padding-bottom: 73px;
+    grid-template-areas: 
+    "place__title place__website"
+    "place__image place__paragraphs";
+    grid-template-rows: 92px 490px;
+  }
+  .place:last-child {
+    grid-template-rows: 92px 410px;
+  }
 }

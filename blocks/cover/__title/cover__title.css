@@ -7,3 +7,12 @@
   text-align: center;
   margin: 33px auto 0;
 }
+@media (min-width:768px) {
+  .cover__title {
+    height: 152px;
+    width: 560px;
+    font-size: 72px;
+    line-height: 76px;
+    margin: 115px auto 32px;
+  }
+}

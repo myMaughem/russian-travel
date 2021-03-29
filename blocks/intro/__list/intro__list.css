@@ -7,3 +7,12 @@
   font-weight: 400;
   white-space: pre-line;
 }
+@media (min-width:768px) {
+  .intro__list {
+    width: 720px;
+    height: 90px;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 33px 0 0;
+  }
+}

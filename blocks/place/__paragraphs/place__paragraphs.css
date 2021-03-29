@@ -1,0 +1,17 @@
+.place__paragraphs {
+  display: grid;
+  gap: 25px;
+  width: 320px;
+  margin: 0 0 50px;
+  font-size: 16px;
+  line-height: 26.08px;
+  grid-area: place__paragraphs;
+}
+@media (min-width:768px) {
+  .place__paragraphs {
+    margin: 48px 0 0;
+    width: 352px;
+    height: 234px;
+    gap: 25px;
+  }
+}

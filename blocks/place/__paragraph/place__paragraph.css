@@ -1,7 +1,10 @@
 .place__paragraph {
   width: 288px;
-  margin: 0 16px 25px;
+  margin: 0 16px;
 }
-.place__paragraph:last-child {
-  margin-bottom: 0;
+@media (min-width:768px) {
+  .place__paragraph {
+    width: 352px;
+    margin: 0;
+  }
 }
