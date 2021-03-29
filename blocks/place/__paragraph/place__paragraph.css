@@ -13,3 +13,8 @@
     width: 456px;
   }
 }
+@media (min-width:1280px) {
+  .place__paragraph {
+    width: 484px;
+  }
+}

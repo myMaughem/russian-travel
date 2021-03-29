@@ -2,6 +2,7 @@
   padding: 0;
   background-color: #2A2C2F;
   min-width: 320px;
+  max-width: 1600px;
   margin: 0 auto;
   font-family: 'Inter', Arial, sans-serif;
 }
@@ -13,5 +14,10 @@
 @media (min-width:1024px) {
   .page {
     min-width: 1024px;
+  }
+}
+@media (min-width:1280px) {
+  .page {
+    min-width: 1280px;
   }
 }

@@ -19,3 +19,8 @@
     width: 456px;
   }
 }
+@media (min-width:1280px) {
+  .place__website {
+    width: 484px;
+  }
+}

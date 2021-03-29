@@ -19,3 +19,17 @@
     font-weight: 900;
     src: url('../fonts/inter-v3-latin-900.woff2') format('woff2');
 }
+  /* inter-100 - latin */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    src: url('../fonts/inter-v3-latin-100.woff2') format('woff2');
+}
+  /* inter-200 - latin */
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/inter-v3-latin-200.woff2') format('woff2');
+}

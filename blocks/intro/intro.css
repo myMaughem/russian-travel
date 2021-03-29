@@ -24,3 +24,8 @@
     margin: 0 auto 0 48px ;
   }
 }
+@media (min-width:1280px) {
+  .intro {
+    margin-left: 148px;
+  }
+}

@@ -26,3 +26,8 @@
     line-height: 76px;
   }
 }
+@media (min-width:1280px) {
+  .place__title {
+    width: 460px;
+  }
+}

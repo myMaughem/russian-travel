@@ -24,3 +24,8 @@
     padding: 92px 0 24px 0;
   }
 }
+@media (min-width:1280px) {
+  .footer {
+    width: 1184px;
+  }
+}
