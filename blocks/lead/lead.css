@@ -14,3 +14,10 @@
      height: 862px;
   }
 }
+@media (min-width:1024px) {
+  .lead {
+    width: 928px;
+    height: 962px;
+    margin: 0 auto;
+  }
+}

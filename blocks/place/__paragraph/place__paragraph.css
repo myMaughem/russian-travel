@@ -8,3 +8,8 @@
     margin: 0;
   }
 }
+@media (min-width:1024px)  {
+  .place__paragraph {
+    width: 456px;
+  }
+}

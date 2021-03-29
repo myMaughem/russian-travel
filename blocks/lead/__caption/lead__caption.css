@@ -12,3 +12,8 @@
      margin-left: 24px;
   }
 }
+@media (min-width:1024px) {
+  .lead__caption {
+    margin: 8px 0 0;
+  }
+}

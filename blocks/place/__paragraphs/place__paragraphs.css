@@ -14,3 +14,10 @@
     gap: 25px;
   }
 }
+@media (min-width:1024px)  {
+  .place__paragraphs {
+    font-size: 18px;
+    line-height: 29.34px;
+    gap: 37px;
+  }
+}

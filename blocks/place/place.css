@@ -11,8 +11,10 @@
     grid-template-areas: 
     "place__title place__website"
     "place__image place__paragraphs";
-  }
-  .place:last-child {
-    grid-template-rows: 92px 410px;
+}
+@media (min-width:1024px) {
+  .place {
+    padding-bottom: 92px;
+    gap: 48px 32px;
   }
 }
