@@ -9,9 +9,8 @@
 }
 @media (min-width:768px) {
   .place__paragraphs {
-    margin: 48px 0 0;
+    margin: 0;
     width: 352px;
-    height: 234px;
     gap: 25px;
   }
 }

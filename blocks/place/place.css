@@ -6,12 +6,11 @@
 @media (min-width:768px) {
   .place {
     display: grid;
-    column-gap: 28px;
+    gap: 48px 28px;
     padding-bottom: 73px;
     grid-template-areas: 
     "place__title place__website"
     "place__image place__paragraphs";
-    grid-template-rows: 92px 490px;
   }
   .place:last-child {
     grid-template-rows: 92px 410px;
