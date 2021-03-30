@@ -13,9 +13,7 @@
 инструменты современной навигации в поездках которыми мы пользуемся каждый день.
 
 ### Основные используемые технологии
-**разметка HTML**
-* UL,p,h,a,nav,span,alt,href,img
-**язык таблиц стилей CSS**
-* flex,grid
+* **HTML** UL,p,h,a,nav,span,alt,href,img
+* **CSS** flex,grid,hover
 
 [Перейти на сайт](https://mymaughem.github.io/russian-travel/)
