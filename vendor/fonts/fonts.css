@@ -26,3 +26,31 @@
     font-weight: 200;
     src: url('../fonts/inter-v3-latin-200.woff2') format('woff2');
 }
+/* inter-200 - latin_cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/inter-v3-latin_cyrillic-200.woff2') format('woff2');
+}
+/* inter-regular - latin_cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/inter-v3-latin_cyrillic-regular.woff2') format('woff2');
+}
+/* inter-700 - latin_cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/inter-v3-latin_cyrillic-700.woff2') format('woff2');
+}
+/* inter-900 - latin_cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/inter-v3-latin_cyrillic-900.woff2') format('woff2');
+}
