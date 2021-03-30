@@ -3,6 +3,7 @@
   height: 20px;
   font-size: 18px;
   line-height: 20px;
+  color: #FFFFFF;
 }
 .header__lang-link:hover {
   opacity: 0.3;
