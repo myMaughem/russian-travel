@@ -1,20 +1,20 @@
 .place__paragraph {
-  width: 288px;
+  max-width: 288px;
   margin: 0 16px;
 }
 @media (min-width:768px) {
   .place__paragraph {
-    width: 352px;
+    max-width: 352px;
     margin: 0;
   }
 }
 @media (min-width:1024px)  {
   .place__paragraph {
-    width: 456px;
+    max-width: 456px;
   }
 }
 @media (min-width:1280px) {
   .place__paragraph {
-    width: 484px;
+    max-width: 484px;
   }
 }

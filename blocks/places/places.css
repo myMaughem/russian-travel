@@ -7,18 +7,18 @@
 }
 @media (min-width:768px) {
   .places {
-    width: 720px;
+    max-width: 720px;
     padding: 90px 0 0;
   }
 }
 @media (min-width:1024px) {
   .places {
-    width: 928px;
+    max-width: 928px;
     padding: 92px 0 0;
   }
 }
 @media (min-width:1280px) {
   .places {
-    width: 984px;
+    max-width: 984px;
   }
 }

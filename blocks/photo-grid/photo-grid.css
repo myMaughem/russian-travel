@@ -1,7 +1,7 @@
 .photo-grid {
   padding-top: 64px;
   width: 288px;
-  margin: 0 24px;
+  margin: 0 auto;
   position: relative;
   display: grid;
   grid-template-columns: 288px;
@@ -11,6 +11,7 @@
 }
 @media (min-width:768px) {
   .photo-grid {
+    margin: 0 24px;
     padding-top: 88px;
     grid-template-columns: 352px 352px;
     grid-auto-flow: row;

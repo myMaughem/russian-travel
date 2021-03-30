@@ -1,6 +1,5 @@
 .intro__text {
-  height: 520px;
-  width: 288px;
+  max-width: 288px;
   font-size: 16px;
   line-height: 26px;
   margin: 40px auto 0;
@@ -8,8 +7,7 @@
 }
 @media (min-width:768px) {
   .intro__text {
-    width: 720px;
-    height: 208px;
+    max-width: 720px;
     font-size: 16px;
     line-height: 26.08px;
     margin: 40px 0 0;
@@ -17,7 +15,7 @@
 }
 @media (min-width:1024px) {
   .intro__text {
-    width: 690px;
+    max-width: 690px;
     height: 208px;
   }
 }

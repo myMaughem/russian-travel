@@ -1,6 +1,5 @@
 .intro {
-  width: 288px;
-  height: 754px;
+  max-width: 288px;
   color: #FFFFFF;
   display: flex;
   flex-direction: column;
@@ -10,16 +9,14 @@
 }
 @media (min-width:768px) {
   .intro {
-    width: 720px;
-    height: 429px;
+    max-width: 720px;
     padding-top: 88px;
     margin: 0 24px;
   }
 }
 @media (min-width:1024px) {
   .intro {
-    width: 690px;
-    height: 429px;
+    max-width: 690px;
     padding-top: 92px;
     margin: 0 auto 0 48px ;
   }

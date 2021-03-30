@@ -1,7 +1,7 @@
 .lead {
   padding-top: 48px;
+  margin: 0 auto;
   width: 320px;
-  height: 406px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -11,13 +11,11 @@
 @media (min-width:768px) {
   .lead {
      min-width: 768px;
-     height: 862px;
   }
 }
 @media (min-width:1024px) {
   .lead {
     width: 928px;
-    height: 962px;
     margin: 0 auto;
   }
 }
@@ -25,6 +23,5 @@
   .lead {
     padding-top: 56px;
     width: 984px;
-    height: 1005px;
   }
 }

@@ -1,7 +1,7 @@
 .footer__copyright {
   padding-top: 48px;
   height: 14px;
-  width: 186px;
+  max-width: 186px;
   font-size: 14px;
   font-weight: 400;
   line-height: 14px;
