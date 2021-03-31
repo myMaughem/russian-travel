@@ -1,6 +1,6 @@
 .places {
   min-width: 320px;
-  padding: 64px 0 16px 0;
+  padding: 64px 0 66px 0;
   margin: 0 auto;
   color: #FFFFFF;
   display: grid;
@@ -8,7 +8,7 @@
 @media (min-width:768px) {
   .places {
     max-width: 720px;
-    padding: 90px 0 0;
+    padding: 88px 0 90px 0;
   }
 }
 @media (min-width:1024px) {

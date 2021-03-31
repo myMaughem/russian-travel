@@ -2,6 +2,7 @@
   list-style: none;
   padding: 0;
   position: relative;
+  padding-bottom: 50px;
 }
 @media (min-width:768px) {
   .place {
@@ -13,7 +14,7 @@
     "place__image place__paragraphs";
   }
   .place:last-child {
-    padding-bottom: 90px;
+    padding-bottom: 0px;
   }
 }
 @media (min-width:1024px) {

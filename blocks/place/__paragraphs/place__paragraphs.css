@@ -2,10 +2,9 @@
   display: grid;
   gap: 25px;
   max-width: 320px;
-  margin: 0 0 50px;
+  margin: 0;
   font-size: 16px;
   line-height: 26.08px;
-  grid-area: place__paragraphs;
 }
 @media (min-width:768px) {
   .place__paragraphs {
@@ -13,17 +12,20 @@
     max-width: 352px;
     line-height: 163%;
     gap: 25px;
+    grid-area: place__paragraphs;
   }
 }
 @media (min-width:1024px)  {
   .place__paragraphs {
+    max-width: 456px;
     font-size: 18px;
     line-height: 29.34px;
-    gap: 37px;
+    gap: 27px;
   }
 }
 @media (min-width:1280px) {
   .place__paragraphs {
+    max-width: 484px;
     gap: 26px;
   }
 }

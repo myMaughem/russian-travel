@@ -1,9 +1,9 @@
 .photo-grid {
   padding-top: 64px;
-  width: 288px;
   margin: 0 auto;
   position: relative;
   display: grid;
+  justify-content: center;
   grid-template-columns: 288px;
   grid-auto-flow: row;
   grid-auto-rows: 216px;
@@ -14,7 +14,6 @@
     margin: 0 24px;
     padding-top: 88px;
     grid-template-columns: 352px 352px;
-    grid-auto-flow: row;
     grid-auto-rows: 264px;
     gap: 16px;
   }

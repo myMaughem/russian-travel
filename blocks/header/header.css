@@ -1,6 +1,5 @@
 .header {
   width: 288px;
-  height: 42px;
   margin: 16px auto 0;
   display: flex;
   justify-content: space-between;
@@ -10,7 +9,6 @@
 @media (min-width:768px) {
  .header {
     width: 720px;
-    height: 52px;
     margin-top: 28px;
  }
 }

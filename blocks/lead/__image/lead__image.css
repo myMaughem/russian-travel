@@ -18,6 +18,7 @@
 }
 @media (min-width:1280px) {
   .lead__image {
+    margin-top: 64px;
     width: 984px;
     height: 615px;
   }

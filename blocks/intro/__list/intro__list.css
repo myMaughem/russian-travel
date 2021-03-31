@@ -1,17 +1,15 @@
 .intro__list {
-  height: 90px;
   max-width: 288px;
   font-size: 12px;
   line-height: 18px;
   margin: 34px 0 0;
-  font-weight: 400;
+  font-weight: bold;
   list-style: none;
   padding: 0;
 }
 @media (min-width:768px) {
   .intro__list {
     max-width: 720px;
-    height: 90px;
     font-size: 12px;
     line-height: 18px;
     margin: 33px 0 0;
@@ -20,6 +18,5 @@
 @media (min-width:1024px) {
   .intro__list {
     max-width: 690px;
-    height: 90px;
   }
 }

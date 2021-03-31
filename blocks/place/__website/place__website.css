@@ -1,17 +1,16 @@
 .place__website {
-  height: 46px;
-  width: 288px;
+  max-width: 288px;
   margin: 32px 16px 0;
   position: relative;
   display: flex;
   flex-direction: column;
-  grid-area: place__website;
 }
 @media (min-width:768px) {
   .place__website {
     align-self: flex-end;
     width: 342px;
     margin: 0;
+    grid-area: place__website;
   }
 }
 @media (min-width:1024px) {
